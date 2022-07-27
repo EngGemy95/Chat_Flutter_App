@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "104579885683",
+    "project_id": "flutter-chat-efb1b",
+    "storage_bucket": "flutter-chat-efb1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104579885683:android:a7f986c4e0453676799806",
+        "android_client_info": {
+          "package_name": "com.fci.zu.eng.gemy.fayed.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104579885683-mc3npqn6jgme8u09045v1le30canjern.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB45z2w8Uc2gPTvw31Wf7xuMNp0OwX5KKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104579885683-mc3npqn6jgme8u09045v1le30canjern.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104579885683-d2upveq51ehgspovlmqnugmnpjkh670t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fci.zu.eng.gemy.95.chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
